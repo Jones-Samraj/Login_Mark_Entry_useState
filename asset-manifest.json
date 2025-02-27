@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/username/static/css/main.abbff84a.css",
-    "main.js": "/username/static/js/main.b2fc42ca.js",
-    "static/js/488.a84c7486.chunk.js": "/username/static/js/488.a84c7486.chunk.js",
-    "index.html": "/username/index.html",
-    "main.abbff84a.css.map": "/username/static/css/main.abbff84a.css.map",
-    "main.b2fc42ca.js.map": "/username/static/js/main.b2fc42ca.js.map",
-    "488.a84c7486.chunk.js.map": "/username/static/js/488.a84c7486.chunk.js.map"
+    "main.css": "/Login_Mark_Entry_useState/static/css/main.abbff84a.css",
+    "main.js": "/Login_Mark_Entry_useState/static/js/main.e0a1674f.js",
+    "static/js/488.a84c7486.chunk.js": "/Login_Mark_Entry_useState/static/js/488.a84c7486.chunk.js",
+    "index.html": "/Login_Mark_Entry_useState/index.html",
+    "main.abbff84a.css.map": "/Login_Mark_Entry_useState/static/css/main.abbff84a.css.map",
+    "main.e0a1674f.js.map": "/Login_Mark_Entry_useState/static/js/main.e0a1674f.js.map",
+    "488.a84c7486.chunk.js.map": "/Login_Mark_Entry_useState/static/js/488.a84c7486.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abbff84a.css",
-    "static/js/main.b2fc42ca.js"
+    "static/js/main.e0a1674f.js"
   ]
 }
